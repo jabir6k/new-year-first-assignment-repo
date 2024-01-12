@@ -18,7 +18,7 @@ header {
   }
 
   .banner-heading {
-    color: #fff;
+    color: #ffffff;
     padding: 0px 100px;
     max-width: 500px;
     text-align: center;
@@ -71,3 +71,62 @@ font-weight: 700;
 
 padding-left: 130px;
 }
+
+/* welcome party  */
+  
+  
+.welcome_party{
+  
+    display: flex;
+    margin: 0 auto;
+    
+    background-image: url(../images/Vectorrr.png);
+    border-radius: 10px;
+    padding: 100px;
+    gap: 20px;
+    margin-top: 130px;
+    background-repeat: no-repeat;
+    max-width: 1140px;
+    
+    
+    
+    
+    
+    }
+    
+    
+    .party_heading{
+    
+    
+        color: #FFF;
+        font-family: Merriweather;
+        font-size: 64px;
+        font-weight: 900;
+        width: 642px;
+    
+    }
+    
+    .party_description{
+    
+        color: rgba(255, 255, 255, 0.80);
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 400;
+        width: 697px;
+    
+    
+    }
+    
+    .party_button{
+    
+        color: #0e0d0d;
+        text-align: center;
+        font-family: Inter;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+    
+        text-transform: uppercase;
+    }
+    
+    
