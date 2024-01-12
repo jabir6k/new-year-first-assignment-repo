@@ -36,4 +36,38 @@ header {
   .discount-detail {
     text-align: center;}
    
+    .discount{
   
+        color: #F00;
+        
+        text-align: center;
+        font-family: Inter;
+        font-size: 50px;
+        font-weight: 700;}
+    
+   .holiday-details{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+   }
+
+
+.all-category{
+
+
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+
+.new_year_photo{
+
+padding-left: 130px;
+}
