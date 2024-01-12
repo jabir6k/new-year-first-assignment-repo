@@ -1,0 +1,30 @@
+header {
+    max-width: 1140px;
+    margin: 0 auto;
+    background-image: url(../images/Banner\ Image.png);
+    height: 600px;
+    background-position: bottom center;
+    border-radius: 16px;
+  }
+  /* heading banner  */
+
+  .banner-container {
+    color: #fff;
+    padding: 50px 30px 0px 100px;
+  
+    text-align: center;
+    font-size: 30px;
+    padding: 160px 200px;
+  }
+
+  .banner-heading {
+    color: #fff;
+    padding: 0px 110px;
+    max-width: 500px;
+    text-align: center;
+    font-size: 60px;
+    margin: 0 auto;
+    line-height: 60px;
+  }
+   
+  
