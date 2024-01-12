@@ -129,4 +129,199 @@ padding-left: 130px;
         text-transform: uppercase;
     }
     
+    /* party event  */
+  
+  
+  
+  .event_details{
+  
+  
+    margin-top: 130px;
+   line-height: 10px;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 600;
+   background: #FFF8F3;
+padding: 100px;
+
+
+
+   
+}
+
+.event_color{
+
+color: #F00;
+
+
+}
+
+.join_event{
+
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+background: #F00;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+text-align: center;
+
+
+
+}
+ /* offer section  */
+  
     
+
+ .party_information{
+  
+    display: flex;
+    margin-top: 130px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    
+    }
+    
+    .party_column1{
+    
+    
+    max-width: 350px;
+    
+    }
+    .party_column2{
+    
+    max-width: 300px;
+    align-items: center;
+    
+    }
+    .party_column3{
+    
+    
+        max-width: 400px;
+    }
+    .new_offer{
+    
+        color: #F00;
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 500;
+        
+        
+    
+    
+    }
+    
+    .comming_soon{
+    
+    
+    
+     color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 0px;
+    }
+    
+    .offer_description{
+    
+    
+    
+        color: rgba(7, 2, 17, 0.60);
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 32px; /* 160% */
+    
+    }
+    
+    
+    /* sale  */
+    
+    
+    
+    .sale{
+    
+    
+    
+        margin-top: 130px;
+        text-align: center;
+    }
+    
+    .sale_title{
+    
+        color: #F00;
+    
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    
+    font-weight: 500;
+    }
+    .holiday_color{
+    
+        color: #F00;
+    }
+    .sale_offer{color: #070211;
+        font-family: Merriweather;
+        font-size: 72px;
+        font-weight: 900;
+        margin-top: 0px;
+    }
+    .sale_description{color: rgba(7, 2, 17, 0.60);
+        text-align: center;
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 20px;
+    max-width: 900px;
+    padding-left: 180px;
+    }
+    
+    
+    .portfolio{
+  
+  
+        margin-top: 130px;
+        max-width: 600px;
+        margin-bottom: 50px;
+    }
+    
+    .portfolio_heading{
+    
+    
+        color: #F00;
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 1000;
+        
+    
+    
+    }
+    
+    .portfolio_title{
+        color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 0px;
+    }
+    
+    .portfolio_dscription{
+    
+        color: rgba(7, 2, 17, 0.60);
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 22px; /* 160% */
+    
+    
+    }  
